@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center"> <h1>PIZZA SALES ANALYSIS</h1>
 </div>
 
@@ -237,3 +238,6 @@ __Conclusion__
 By delving into various facets of the pizza sales dataset, a comprehensive understanding of consumer behavior and market trends was attained. The analysis unveiled key insights, including the identification of peak and off-peak periods based on daily and monthly order trends. This knowledge equips businesses with the ability to optimize staffing and inventory management to meet varying demand levels effectively. Additionally, the examination of sales distribution across different pizza categories shed light on customer preferences, aiding in menu optimization and marketing strategies to enhance sales performance.
 
 Moreover, calculating the average number of pizzas sold per order provided valuable insights into consumer behavior and consumption patterns, enabling businesses to tailor pricing strategies and portion sizes to maximize profitability and customer satisfaction. Overall, this analysis empowers the pizza establishment to make data-driven decisions, streamline operations, and enhance the overall customer experience, ensuring continued success in the competitive pizza market.
+=======
+# Pizzasalesanalysis
+>>>>>>> b85102476604dce5b6667314a152ff6fc775bba7
